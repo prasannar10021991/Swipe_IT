@@ -1,2 +1,2 @@
 # Swipe_IT
-an Instagram-like Photo &amp; media sharing Android application through which you can post pictures, view something posted by your friends, search and follow your friends etc. 
+Swipe It is an Instagram like Photo & media sharing Android application through which you can post pictures, view something posted by your friends, search and follow your friends etc. It also features additional options including sharing a post on one user’s feed to their friend(s) using a simple swipe gesture. The swiped post is transferred to one or more friends connected via Bluetooth. This gives an added advantage over other social media apps available over the market.
